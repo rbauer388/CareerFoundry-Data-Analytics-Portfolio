@@ -33,9 +33,10 @@ I was hired as a Data Analyst in Rockbuster’s Business Intelligence (BI) depar
 
 ---
 
-## 📈 Tableau Dashboard
+## 📊 Executive Presentation
 
-👉 *(Paste your Tableau Public Rockbuster dashboard link here)*
+👉 [View Final Business Presentation (PDF)](presentation/3.10%20Presentation.pdf)
+
 
 ---
 
