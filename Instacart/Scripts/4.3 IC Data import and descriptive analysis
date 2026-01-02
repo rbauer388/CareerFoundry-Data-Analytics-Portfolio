@@ -1,0 +1,75 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "id": "4d4fc707-f95d-4a8d-a70f-c5d566e92e04",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Importing libraries"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "id": "1143ea54-c8a2-4cf9-8fce-c9c9993fc05c",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import pandas as pd\n",
+    "import numpy as np\n",
+    "import os"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "id": "1f70e41d-91f0-4622-b6fa-afa0f02e374e",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Importing data"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 7,
+   "id": "e49bee27-e081-4429-8be0-ceedbac74cb5",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "df = pd.read_csv(r'C:\\Users\\rbaue\\Desktop\\Original Data\\orders.csv', index_col = False)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "5e0115a7-c08b-461d-8982-91ac6e416a80",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.13.5"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
