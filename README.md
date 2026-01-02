@@ -40,5 +40,3 @@ Each project demonstrates end-to-end analytical workflows including data cleanin
 
 Aspiring Data Analyst focused on SQL and Python analytics, business intelligence, and data-driven storytelling.  
 CareerFoundry Data Analytics Immersion Graduate.
-
-(LinkedIn / Email can be added here)
